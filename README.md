@@ -168,5 +168,5 @@ python ballas_hammer.py
 ---
 
 # Auteur
-
+Steven
 Projet académique d’optimisation des problèmes de transport en recherche opérationnelle.
